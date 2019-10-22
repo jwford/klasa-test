@@ -1,0 +1,23 @@
+{
+  "name": "klasa-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwford/klasa-test.git"
+  },
+  "author": "Jonathan Ford",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jwford/klasa-test/issues"
+  },
+  "homepage": "https://github.com/jwford/klasa-test#readme",
+  "devDependencies": {
+    "eslint": "^6.5.1"
+  },
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js",
+    "klasa": "github:dirigeants/klasa#master"
+  }
+}
